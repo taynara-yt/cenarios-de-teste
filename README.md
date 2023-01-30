@@ -16,5 +16,5 @@ Projeto e criação de lista de cenários de teste utilizando a linguagem Gherki
 
 ### Equipe (Discentes)
 
-- Rickson Rossy Brandão
+- Rickson Brandão Rossy
 - Taynara Silva da Costa
