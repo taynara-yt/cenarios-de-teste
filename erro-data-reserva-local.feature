@@ -8,7 +8,7 @@ Feature: Data Reserva Local Indisponível
 
   Scenario: Validar reserva de local com sucesso
   When o sistema apresenta formulario
- And preencho os campos:
+  And preencho os campos:
          | Departamento    | Midia        | Localização   | 
          | Data            | Hora Inicio  | Hora Fim      | 
     And informo data com reserva já existente
