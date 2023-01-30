@@ -10,8 +10,8 @@ Feature: Cadastro Usuario
   Scenario: Validar cadastro com sucesso de novo usuario
     When acesso o formulario de cadastro
     And preencho os campos:
-         | siape    | cpf     | nome    | cargo   | email  | 
-         | telefone | setor   | senha   |
+         | siape    | cpf      | nome    | cargo   |
+         | email    | telefone | setor   | senha   |
 
     And clico no botao 'cadastrar'
     Then o sistema retorna a tela de login
